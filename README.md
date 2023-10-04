@@ -19,6 +19,13 @@ Pennino, M. G., Paradinas, I., Illian, J. B., Muñoz, F., Bellido, J. M., López
 
 El‐Gabbas, A., & Dormann, C. F. (2017). Improved species‐occurrence predictions in data‐poor regions: using large‐scale data and bias correction with down‐weighted Poisson regression and Maxent. In Ecography (Vol. 41, Issue 7, pp. 1161–1172). Wiley. https://doi.org/10.1111/ecog.03149
 
+Remote sensing bias:
+Gregg, W. & Casey, N. (2007) Sampling biases in MODIS SeaWiFS ocean chlorophyll data. In Remote Sensing of Environment (Vol. 111, Issue 1, pp. 25-35)
+https://doi.org/10.1016/j.rse.2007.03.008
+
+Gregg, W. & Rousseaux, C. (2019) Global ocean primary production trends in the modern ocean color sattelite product (1998-2015). In Environmental Research Letters (Vol. 14, Issue 12)
+https://doi.org/10.1088/1748-9326/ab4667
+
 
 ## Questions and hot-topics
 
