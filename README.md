@@ -18,3 +18,7 @@ Guerreiro, M.F., Borges, F.O., Santos, C.P. et al. Impact of climate change on t
 
 
 ## Interesting resources
+
+## To remember
+
+- Study the study area
