@@ -34,6 +34,11 @@ https://doi.org/10.1016/j.rse.2007.03.008
 Gregg, W. & Rousseaux, C. (2019) Global ocean primary production trends in the modern ocean color sattelite product (1998-2015). In Environmental Research Letters (Vol. 14, Issue 12)
 https://doi.org/10.1088/1748-9326/ab4667
 
+### Meeting 3 (2023/10/25)
+
+Isaac, N. J. B., Jarzyna, M. A., Keil, P., Dambly, L. I., Boersch-Supan, P. H., Browning, E., Freeman, S. N., Golding, N., Guillera-Arroita, G., Henrys, P. A., Jarvis, S., Lahoz-Monfort, J., Pagel, J., Pescott, O. L., Schmucki, R., Simmonds, E. G., & O’Hara, R. B. (2020). Data Integration for Large-Scale Models of Species Distributions. Trends in Ecology & Evolution, 35(1), 56–67. https://doi.org/10.1016/j.tree.2019.08.006
+
+
 
 ## Questions and hot-topics
 
