@@ -38,7 +38,7 @@ https://doi.org/10.1088/1748-9326/ab4667
 
 Isaac, N. J. B., Jarzyna, M. A., Keil, P., Dambly, L. I., Boersch-Supan, P. H., Browning, E., Freeman, S. N., Golding, N., Guillera-Arroita, G., Henrys, P. A., Jarvis, S., Lahoz-Monfort, J., Pagel, J., Pescott, O. L., Schmucki, R., Simmonds, E. G., & O’Hara, R. B. (2020). Data Integration for Large-Scale Models of Species Distributions. Trends in Ecology & Evolution, 35(1), 56–67. https://doi.org/10.1016/j.tree.2019.08.006
 
-
+Miller, D. A., Pacifici, K., Sanderlin, J. S., & Reich, B. J. (2019). The recent past and promising future for data integration methods to estimate species’ distributions. Methods in Ecology and Evolution, 10(1), 22-37. https://doi.org/10.1111/2041-210X.13110
 
 ## Questions and hot-topics
 
