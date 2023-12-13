@@ -40,6 +40,10 @@ Miller, D. A., Pacifici, K., Sanderlin, J. S., & Reich, B. J. (2019). The recent
 
 de Oliveira, G., Rangel, T. F., Lima-Ribeiro, M. S., Terribile, L. C., & Diniz-Filho, J. A. F. (2014). Evaluating, partitioning, and mapping the spatial autocorrelation component in ecological niche modeling: a new approach based on environmentally equidistant records. Ecography, 37(7), 637–647. https://doi.org/10.1111/j.1600-0587.2013.00564.x
 
+### Meeting 4 (2023/12/13)
+
+Bohl, C. L., Kass, J. M., & Anderson, R. P. (2019). A new null model approach to quantify performance and significance for ecological niche models of species distributions. In Journal of Biogeography (Vol. 46, Issue 6, pp. 1101–1111). Wiley. https://doi.org/10.1111/jbi.13573 (also available at https://www.researchgate.net/publication/333028975_A_new_null_model_approach_to_quantify_performance_and_significance_for_ecological_niche_models_of_species_distributions)
+
 ## Questions and hot-topics
 
 
