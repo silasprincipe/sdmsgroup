@@ -44,6 +44,9 @@ de Oliveira, G., Rangel, T. F., Lima-Ribeiro, M. S., Terribile, L. C., & Diniz-F
 
 Bohl, C. L., Kass, J. M., & Anderson, R. P. (2019). A new null model approach to quantify performance and significance for ecological niche models of species distributions. In Journal of Biogeography (Vol. 46, Issue 6, pp. 1101–1111). Wiley. https://doi.org/10.1111/jbi.13573 (also available at https://www.researchgate.net/publication/333028975_A_new_null_model_approach_to_quantify_performance_and_significance_for_ecological_niche_models_of_species_distributions)
 
+Grimmett, L., Whitsed, R., & Horta, A. (2020). Presence-only species distribution models are sensitive to sample prevalence: Evaluating models using spatial prediction stability and accuracy metrics. Ecological Modelling, 431. https://doi.org/10.1016/j.ecolmodel.2020.109194
+
+
 ## Questions and hot-topics
 
 
