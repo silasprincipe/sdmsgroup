@@ -46,7 +46,8 @@ Bohl, C. L., Kass, J. M., & Anderson, R. P. (2019). A new null model approach to
 
 Grimmett, L., Whitsed, R., & Horta, A. (2020). Presence-only species distribution models are sensitive to sample prevalence: Evaluating models using spatial prediction stability and accuracy metrics. Ecological Modelling, 431. https://doi.org/10.1016/j.ecolmodel.2020.109194
 
-
+Valavi, R., Guillera‐Arroita, G., Lahoz‐Monfort, J. J., & Elith, J. (2022). Predictive performance of presence‐only species distribution models: a benchmark study with reproducible code. Ecological Monographs, 92(1), e01486.
+https://doi.org/10.1002/ecm.1486
 ## Questions and hot-topics
 
 
