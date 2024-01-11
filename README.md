@@ -48,6 +48,14 @@ Grimmett, L., Whitsed, R., & Horta, A. (2020). Presence-only species distributio
 
 Valavi, R., Guillera‐Arroita, G., Lahoz‐Monfort, J. J., & Elith, J. (2022). Predictive performance of presence‐only species distribution models: a benchmark study with reproducible code. Ecological Monographs, 92(1), e01486.
 https://doi.org/10.1002/ecm.1486
+
+### Meeting 5 (2024/01/10)
+Brazdil, P., van Rijn, J. N., Soares, C., & Vanschoren, J. (2022). Metalearning: applications to automated machine learning and data mining (p. 346). Springer Nature. (Free e-book available at https://library.oapen.org/bitstream/handle/20.500.12657/53319/1/978-3-030-67024-5.pdf)
+
+Cawood, P., & Van Zyl, T. (2022). Evaluating state-of-the-art, forecasting ensembles and meta-learning strategies for model fusion. Forecasting, 4(3), 732-751. https://doi.org/10.48550/arXiv.2203.03279
+
+
+
 ## Questions and hot-topics
 
 
@@ -56,3 +64,5 @@ https://doi.org/10.1002/ecm.1486
 ## To remember
 
 - Study the study area
+- Provide multiple evaluation metrics
+- Transparency is important
