@@ -54,7 +54,10 @@ Brazdil, P., van Rijn, J. N., Soares, C., & Vanschoren, J. (2022). Metalearning:
 
 Cawood, P., & Van Zyl, T. (2022). Evaluating state-of-the-art, forecasting ensembles and meta-learning strategies for model fusion. Forecasting, 4(3), 732-751. https://doi.org/10.48550/arXiv.2203.03279
 
+### Meeting 6 (2024/02/07)
+Shlesinger, T., & van Woesik, R. (2023). Oceanic differences in coral-bleaching responses to marine heatwaves. In Science of The Total Environment (Vol. 871, p. 162113). Elsevier BV. https://doi.org/10.1016/j.scitotenv.2023.162113
 
+Harrison, X. A., Donaldson, L., Correa-Cano, M. E., Evans, J., Fisher, D. N., Goodwin, C. E. D., Robinson, B. S., Hodgson, D. J., & Inger, R. (2018). A brief introduction to mixed effects modelling and multi-model inference in ecology. In PeerJ (Vol. 6, p. e4794). PeerJ. https://doi.org/10.7717/peerj.4794
 
 ## Questions and hot-topics
 
