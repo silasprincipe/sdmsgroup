@@ -63,6 +63,8 @@ Harrison, X. A., Donaldson, L., Correa-Cano, M. E., Evans, J., Fisher, D. N., Go
 
 Woods, B. L., Van de Putte, A. P., Hindell, M. A., Raymond, B., Saunders, R. A., Walters, A., & Trebilco, R. (2023). Species distribution models describe spatial variability in mesopelagic fish abundance in the Southern Ocean. In Frontiers in Marine Science (Vol. 9). Frontiers Media SA. https://doi.org/10.3389/fmars.2022.981434
 
+Morera‐Pujol, V., Mostert, P. S., Murphy, K. J., Burkitt, T., Coad, B., McMahon, B. J., ... & Ciuti, S. (2023). Bayesian species distribution models integrate presence‐only and presence–absence data to predict deer distribution and relative abundance. Ecography, 2023(2), e06451.
+
 ## Questions and hot-topics
 
 
