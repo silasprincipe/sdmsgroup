@@ -59,6 +59,10 @@ Shlesinger, T., & van Woesik, R. (2023). Oceanic differences in coral-bleaching 
 
 Harrison, X. A., Donaldson, L., Correa-Cano, M. E., Evans, J., Fisher, D. N., Goodwin, C. E. D., Robinson, B. S., Hodgson, D. J., & Inger, R. (2018). A brief introduction to mixed effects modelling and multi-model inference in ecology. In PeerJ (Vol. 6, p. e4794). PeerJ. https://doi.org/10.7717/peerj.4794
 
+### Meeting 7 (2024/04/24)
+
+Woods, B. L., Van de Putte, A. P., Hindell, M. A., Raymond, B., Saunders, R. A., Walters, A., & Trebilco, R. (2023). Species distribution models describe spatial variability in mesopelagic fish abundance in the Southern Ocean. In Frontiers in Marine Science (Vol. 9). Frontiers Media SA. https://doi.org/10.3389/fmars.2022.981434
+
 ## Questions and hot-topics
 
 
