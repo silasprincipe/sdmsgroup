@@ -66,11 +66,12 @@ Woods, B. L., Van de Putte, A. P., Hindell, M. A., Raymond, B., Saunders, R. A.,
 Morera‐Pujol, V., Mostert, P. S., Murphy, K. J., Burkitt, T., Coad, B., McMahon, B. J., ... & Ciuti, S. (2023). Bayesian species distribution models integrate presence‐only and presence–absence data to predict deer distribution and relative abundance. Ecography, 2023(2), e06451.
 
 Monnier-Corbel, A., Robert, A., Hingrat, Y., Benito, B. M., & Monnet, A. C. (2023). Species Distribution Models predict abundance and its temporal variation in a steppe bird population. Global Ecology and Conservation, 43, e02442. https://doi.org/10.1016/j.gecco.2023.e02442
-## Questions and hot-topics
 
 ### Meeting 8 (2024/05/08)
 
 Bowler, D. E., Callaghan, C. T., Bhandari, N., Henle, K., Benjamin Barth, M., Koppitz, C., Klenke, R., Winter, M., Jansen, F., Bruelheide, H., & Bonn, A. (2022). Temporal trends in the spatial bias of species occurrence records. Ecography, 2022(8). https://doi.org/10.1111/ecog.06219
+
+## Questions and hot-topics
 
 ## Interesting resources
 
