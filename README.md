@@ -79,6 +79,8 @@ Crispim-Mendes, T., Valerio, F., Marques, A.T. et al. High-resolution species di
 
 Tredennick, A. T., Hooker, G., Ellner, S. P., & Adler, P. B. (2021). A practical guide to selecting models for exploration, inference, and prediction in ecology. In Ecology (Vol. 102, Issue 6). Wiley. https://doi.org/10.1002/ecy.3336
 
+Rew, J.; Cho, Y.; Moon, J.; Hwang, E. Habitat Suitability Estimation Using a Two-Stage Ensemble Approach. Remote Sens. 2020, 12, 1475. https://doi.org/10.3390/rs12091475
+
 ## Questions and hot-topics
 
 ## Interesting resources
