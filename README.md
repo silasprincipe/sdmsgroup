@@ -71,6 +71,14 @@ Monnier-Corbel, A., Robert, A., Hingrat, Y., Benito, B. M., & Monnet, A. C. (202
 
 Bowler, D. E., Callaghan, C. T., Bhandari, N., Henle, K., Benjamin Barth, M., Koppitz, C., Klenke, R., Winter, M., Jansen, F., Bruelheide, H., & Bonn, A. (2022). Temporal trends in the spatial bias of species occurrence records. Ecography, 2022(8). https://doi.org/10.1111/ecog.06219
 
+### Meeting 11[?] (2024/08/06)
+
+Crispim-Mendes, T., Valerio, F., Marques, A.T. et al. High-resolution species distribution modelling reveals spatio-temporal variability of habitat suitability in a declining grassland bird. Landsc Ecol 39, 49 (2024). https://doi.org/10.1007/s10980-024-01848-6
+
+### Meeting 12 (2024/08/20)
+
+Tredennick, A. T., Hooker, G., Ellner, S. P., & Adler, P. B. (2021). A practical guide to selecting models for exploration, inference, and prediction in ecology. In Ecology (Vol. 102, Issue 6). Wiley. https://doi.org/10.1002/ecy.3336
+
 ## Questions and hot-topics
 
 ## Interesting resources
