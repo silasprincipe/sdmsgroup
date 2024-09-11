@@ -81,7 +81,7 @@ Tredennick, A. T., Hooker, G., Ellner, S. P., & Adler, P. B. (2021). A practical
 
 Rew, J.; Cho, Y.; Moon, J.; Hwang, E. Habitat Suitability Estimation Using a Two-Stage Ensemble Approach. Remote Sens. 2020, 12, 1475. https://doi.org/10.3390/rs12091475
 
-### Meeting 12 (2024/08/20)
+### Meeting 13 (2024/09/11)
 
 Frans, V.F., Liu, J. Gaps and opportunities in modelling human influence on species distributions in the Anthropocene. Nat Ecol Evol 8, 1365–1377 (2024). https://doi.org/10.1038/s41559-024-02435-3
 
