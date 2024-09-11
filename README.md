@@ -85,6 +85,8 @@ Rew, J.; Cho, Y.; Moon, J.; Hwang, E. Habitat Suitability Estimation Using a Two
 
 Frans, V.F., Liu, J. Gaps and opportunities in modelling human influence on species distributions in the Anthropocene. Nat Ecol Evol 8, 1365–1377 (2024). https://doi.org/10.1038/s41559-024-02435-3
 
+Peiffer, F., Lima, A. R. A., Henriques, S., Pardal, M. A., Martinho, F., Gonçalves, J. M., ... & Silva, G. J. F. (2024). Habitat suitability of two flagship species, Hippocampus hippocampus and Hippocampus guttulatus, in the Atlantic coast of the Iberian Peninsula-implications for conservation. Global Ecology and Conservation, 53, e02993. https://doi.org/10.1016/j.gecco.2024.e02993
+
 ## Questions and hot-topics
 
 ## Interesting resources
