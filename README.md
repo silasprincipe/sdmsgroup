@@ -87,6 +87,8 @@ Frans, V.F., Liu, J. Gaps and opportunities in modelling human influence on spec
 
 Peiffer, F., Lima, A. R. A., Henriques, S., Pardal, M. A., Martinho, F., Gonçalves, J. M., ... & Silva, G. J. F. (2024). Habitat suitability of two flagship species, Hippocampus hippocampus and Hippocampus guttulatus, in the Atlantic coast of the Iberian Peninsula-implications for conservation. Global Ecology and Conservation, 53, e02993. https://doi.org/10.1016/j.gecco.2024.e02993
 
+Lawlor, J.A., Comte, L., Grenouillet, G. et al. Mechanisms, detection and impacts of species redistributions under climate change. Nat Rev Earth Environ 5, 351–368 (2024). https://doi.org/10.1038/s43017-024-00527-z
+
 ## Questions and hot-topics
 
 ## Interesting resources
