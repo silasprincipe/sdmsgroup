@@ -89,6 +89,10 @@ Peiffer, F., Lima, A. R. A., Henriques, S., Pardal, M. A., Martinho, F., Gonçal
 
 Lawlor, J.A., Comte, L., Grenouillet, G. et al. Mechanisms, detection and impacts of species redistributions under climate change. Nat Rev Earth Environ 5, 351–368 (2024). https://doi.org/10.1038/s43017-024-00527-z
 
+### Meeting 14 (2024/09/25)
+
+Stuart-Smith, R.D., Edgar, G.J. & Bates, A.E. Thermal limits to the geographic distributions of shallow-water marine species. Nat Ecol Evol 1, 1846–1852 (2017). https://doi.org/10.1038/s41559-017-0353-x
+
 ## Questions and hot-topics
 
 ## Interesting resources
