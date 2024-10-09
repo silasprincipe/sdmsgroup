@@ -93,6 +93,8 @@ Lawlor, J.A., Comte, L., Grenouillet, G. et al. Mechanisms, detection and impact
 
 Stuart-Smith, R.D., Edgar, G.J. & Bates, A.E. Thermal limits to the geographic distributions of shallow-water marine species. Nat Ecol Evol 1, 1846–1852 (2017). https://doi.org/10.1038/s41559-017-0353-x
 
+Harrison XA, Donaldson L, Correa-Cano ME, Evans J, Fisher DN, Goodwin CED, Robinson BS, Hodgson DJ, Inger R. 2018. A brief introduction to mixed effects modelling and multi-model inference in ecology. PeerJ 6:e4794 https://doi.org/10.7717/peerj.4794
+
 ## Questions and hot-topics
 
 ## Interesting resources
