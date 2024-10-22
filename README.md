@@ -95,6 +95,12 @@ Stuart-Smith, R.D., Edgar, G.J. & Bates, A.E. Thermal limits to the geographic d
 
 Harrison XA, Donaldson L, Correa-Cano ME, Evans J, Fisher DN, Goodwin CED, Robinson BS, Hodgson DJ, Inger R. 2018. A brief introduction to mixed effects modelling and multi-model inference in ecology. PeerJ 6:e4794 https://doi.org/10.7717/peerj.4794
 
+### Meeting 15 (2024/10/09)
+
+### Meeting 16 (2024/10/22)
+
+Nolan, V., Gilbert, F., & Reader, T. (2021). Solving sampling bias problems in presence–absence or presence‐only species data using zero‐inflated models. In Journal of Biogeography (Vol. 49, Issue 1, pp. 215–232). Wiley. https://doi.org/10.1111/jbi.14268
+
 ## Questions and hot-topics
 
 ## Interesting resources
