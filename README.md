@@ -101,6 +101,27 @@ Harrison XA, Donaldson L, Correa-Cano ME, Evans J, Fisher DN, Goodwin CED, Robin
 
 Nolan, V., Gilbert, F., & Reader, T. (2021). Solving sampling bias problems in presence–absence or presence‐only species data using zero‐inflated models. In Journal of Biogeography (Vol. 49, Issue 1, pp. 215–232). Wiley. https://doi.org/10.1111/jbi.14268
 
+### Meeting 17 (2024/11/20): data visualization
+
+Online resources:
+A classic:                 https://r-graph-gallery.com/
+Addition to the classic:   https://r-charts.com/
+Flowchart to choose graph: https://www.data-to-viz.com/
+Inspiration:               https://www.dataviz-inspiration.com/
+Inspiration:               https://www.cedricscherer.com/
+Machine learning visuals:  https://dagshub.com/blog/best-tools-for-machine-learning-model-visualization/
+Overview of data vis tools: https://data.europa.eu/apps/data-visualisation-guide/tag/data-visualisation-tools
+The chartmaker directory:  https://chartmaker.visualisingdata.com/
+Creating Quarto websites:  https://ucsb-meds.github.io/creating-quarto-websites/
+
+Interesting R packages:
+GGplotly & Plotyly
+Mapview
+
+In addition:
+Book: Powerful Charts - Koen van Eeckhout (Baryon) --> available in VLIZ library
+Paper - Nature Methods: https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf
+
 ## Questions and hot-topics
 
 ## Interesting resources
