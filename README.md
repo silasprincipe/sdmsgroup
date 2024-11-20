@@ -113,14 +113,18 @@ Online resources:
 - Overview of data vis tools: https://data.europa.eu/apps/data-visualisation-guide/tag/data-visualisation-tools
 - The chartmaker directory: https://chartmaker.visualisingdata.com/
 - Creating Quarto websites: https://ucsb-meds.github.io/creating-quarto-websites/
+- RAW graphs: https://www.rawgraphs.io/
+- Colour palette generator: https://coolors.co/
 
 Interesting R packages:
 - GGplotly & Plotyly
 - Mapview
+- Viridis (color blind friendly!)
 
 In addition:
 - Book: Powerful Charts - Koen van Eeckhout (Baryon) --> available in VLIZ library
 - Paper: Nature Methods: https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf
+- Online course: https://data.europa.eu/en/academy/introducing-data-visualisation
 
 ## Questions and hot-topics
 
