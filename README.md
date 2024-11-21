@@ -125,6 +125,12 @@ In addition:
 - Book: Powerful Charts - Koen van Eeckhout (Baryon) --> available in VLIZ library
 - Paper: Nature Methods: https://mcmanuslab.ucsf.edu/sites/mcmanuslab.ucsf.edu/files/event/file-attachments/data-visualization-nature-methods-selected.pdf
 - Online course: https://data.europa.eu/en/academy/introducing-data-visualisation
+- Paper: Midway, S. R. (2020). Principles of Effective Data Visualization. In Patterns (Vol. 1, Issue 9, p. 100141). Elsevier BV. [https://doi.org/10.1016/j.patter.2020.100141](https://doi.org/10.1016/j.patter.2020.100141)
+- Book: Data Visualization: A practical introduction, Kieran Healy. https://socviz.co/
+
+And tables:
+- Tables with R: https://r-graph-gallery.com/table.html 
+- Examples of interactive tables: https://flourish.studio/blog/how-make-interactive-table/ 
 
 ## Questions and hot-topics
 
