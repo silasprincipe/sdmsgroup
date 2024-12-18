@@ -136,6 +136,12 @@ And tables:
 
 ### Meeting 19 (2024/12/18): model validation
 
+- Species distributions models may predict accurately future distributions but poorly how distributions change: A critical perspective on model validation (https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13687)
+- blockCV: An r package for generating spatially or environmentally separated folds for k-fold cross-validation of species distribution models (https://doi.org/10.1111/2041-210X.13107) and step-by-step tutorial (https://cran.r-project.org/web/packages/blockCV/vignettes/tutorial_2.html)
+- Flexible species distribution modelling methods perform well on spatially separated testing data (https://doi.org/10.1111/geb.13639)
+- A review of regularised estimation methods and cross-validation in spatiotemporal statistics (https://doi.org/10.48550/arXiv.2402.00183)
+- Machine learning algorithm validation with a limited sample size (https://doi.org/10.1371/journal.pone.0224365)
+
 ### Meeting 20 (2025/01/08): R packages for data analysis/exploration/wrangling
 
 ## Questions and hot-topics
