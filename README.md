@@ -132,6 +132,12 @@ And tables:
 - Tables with R: https://r-graph-gallery.com/table.html 
 - Examples of interactive tables: https://flourish.studio/blog/how-make-interactive-table/ 
 
+### Meeting 18 (2024/12/04): GAMs
+
+### Meeting 19 (2024/12/18): model validation
+
+### Meeting 20 (2025/01/08): R packages for data analysis/exploration/wrangling
+
 ## Questions and hot-topics
 
 ## Interesting resources
