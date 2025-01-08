@@ -1,0 +1,199 @@
+---
+title: "My favorite packages"
+format: html
+---
+
+# Spatial analysis
+
+## `terra` - a love story
+
+- [https://rspatial.github.io/terra/reference/terra-package.html](https://rspatial.github.io/terra/reference/terra-package.html)
+
+The most amazing R package for spatial data analysis. Specially good with rasters (it is the successor of the `raster` package), but also super good with vectors.
+
+Learn fast here: https://rspatial.org/index.html
+
+## `sf` - not a love story
+
+- [https://r-spatial.github.io/sf/](https://r-spatial.github.io/sf/)
+
+"Simple" features for spatial analysis (vector). Have problems dealing with very big data. Good news: totally interoperable with terra::vect.
+
+## `xarray` - it's Python, but why not?
+
+- [https://docs.xarray.dev/en/stable/](https://docs.xarray.dev/en/stable/)
+
+Amazing spatial data manipulation, specially big data arrays.
+
+On R, one can do:
+
+``` {r}
+#| eval: false
+library(reticulate)
+xr <- import("xarray")
+
+tf <- tempfile(fileext = "nc")
+download.file("https://rstudio.github.io/leaflet/nc/oisst-sst.nc", destfile = tf)
+
+ds <- xr$open_dataset(tf)
+
+ds
+```
+
+```
+<xarray.Dataset>
+Dimensions:                        (longitude: 120, latitude: 112)
+Coordinates:
+  * longitude                      (longitude) float64 -87.77 -87.52 ... -58.13
+  * latitude                       (latitude) float64 29.38 29.12 ... 1.625
+Data variables:
+    Daily.sea.surface.temperature  (latitude, longitude) float32 ...
+Attributes:
+    Conventions:  CF-1.4
+    created_by:   R, packages ncdf and raster (version 2.3-40)
+    date:         2015-06-16 12:51:27
+```
+
+## `h3jsr` - Uber's H3 system
+
+- [https://cran.r-project.org/web/packages/h3jsr/vignettes/intro-to-h3jsr.html](https://cran.r-project.org/web/packages/h3jsr/vignettes/intro-to-h3jsr.html)
+
+Implements Uber's H3 hexagonal grid system in R.
+
+# Data handling
+
+## `duckdb`
+
+- [https://duckdb.org/docs/api/r.html](https://duckdb.org/docs/api/r.html)
+
+Faster and efficient handling of big datasets.
+
+## `arrow`
+
+- [https://arrow.apache.org/docs/r/](https://arrow.apache.org/docs/r/)
+
+Read and write Parquet files. Learn more here: https://resources.obis.org/tutorials/arrow-obis/
+
+# Data visualization and report
+
+## `leaflet` - old but gold
+
+- [https://rstudio.github.io/leaflet/](https://rstudio.github.io/leaflet/)
+
+Creates beautiful interactive maps. It is one of the most stable mapping libraries, but is now being more and more superseeded by Mapbox.
+
+``` {r}
+#| warning: false
+#| message: false
+library(terra)
+library(leaflet)
+library(leaflegend)
+r <- rast("https://rstudio.github.io/leaflet/nc/oisst-sst.nc")
+pal <- colorNumeric(c("#0C2C84", "#41B6C4", "#FFFFCC"), values(r),
+  na.color = "transparent")
+
+leaflet() %>% addTiles() %>%
+  addRasterImage(r, colors = pal, opacity = 0.8) %>%
+  addLegendNumeric(
+    pal = pal,
+    values = na.omit(values(r)),
+    position = 'topright',
+    title = 'Surface temp',
+    orientation = 'horizontal',
+    decreasing = FALSE,
+    height = 10,
+    width = 120
+  )
+```
+
+**Also nice:** `leaflegend`, `leafpm` and `leafem`
+
+## `mapgl`
+
+- [https://walker-data.com/mapgl/index.html](https://walker-data.com/mapgl/index.html)
+
+A kind of leaflet but using Mapbox or Maplibre. It is much more limited, but the result is beautiful.
+
+``` {r}
+#| warning: false
+#| message: false
+library(mapgl)
+library(sf)
+library(dplyr)
+
+# Set seed for reproducibility
+set.seed(1234)
+
+# Define the bounding box for Washington DC (approximately)
+bbox <- st_bbox(c(
+  xmin = -77.119759,
+  ymin = 38.791645,
+  xmax = -76.909393,
+  ymax = 38.995548
+),
+crs = st_crs(4326))
+
+# Generate 30 random points within the bounding box
+random_points <- st_as_sf(
+  data.frame(
+    id = 1:30,
+    lon = runif(30, bbox["xmin"], bbox["xmax"]),
+    lat = runif(30, bbox["ymin"], bbox["ymax"])
+  ),
+  coords = c("lon", "lat"),
+  crs = 4326
+)
+
+# Assign random categories
+categories <- c('music', 'bar', 'theatre', 'bicycle')
+random_points <- random_points %>%
+  mutate(category = sample(categories, n(), replace = TRUE))
+
+# Map with circle layer
+maplibre(bounds = random_points) %>%
+  add_circle_layer(
+    id = "poi-layer",
+    source = random_points,
+    circle_color = match_expr(
+      "category",
+      values = c("music", "bar", "theatre",
+                 "bicycle"),
+      stops = c("#1f78b4", "#33a02c",
+                "#e31a1c", "#ff7f00")
+    ),
+    circle_radius = 8,
+    circle_stroke_color = "#ffffff",
+    circle_stroke_width = 2,
+    circle_opacity = 0.8,
+    tooltip = "category",
+    hover_options = list(circle_radius = 12,
+                         circle_color = "#ffff99")
+  ) %>%
+  add_categorical_legend(
+    legend_title = "Points of Interest",
+    values = c("Music", "Bar", "Theatre", "Bicycle"),
+    colors = c("#1f78b4", "#33a02c", "#e31a1c", "#ff7f00"),
+    circular_patches = TRUE
+  )
+```
+
+## `bslib`
+
+- [https://rstudio.github.io/bslib/](https://rstudio.github.io/bslib/)
+
+Nice html components for Shiny or Quarto reports, webpages, apps, etc.
+
+``` {r}
+#| warning: false
+#| message: false
+library(bslib)
+library(htmltools)
+library(bsicons)
+value_box(
+    title = "1st value",
+    value = "123",
+    showcase = bs_icon("bar-chart"),
+    theme = "blue",
+    p("The 1st detail")
+  )
+```
