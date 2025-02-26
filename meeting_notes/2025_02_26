@@ -1,0 +1,24 @@
+# Good coding practices
+
+## Interesting resources
+https://raps-with-r.dev
+This is a book on how to make a reproducible workflow in R. The main messages are:
+- Don't repeat yourself
+- Write it down
+
+It focuses on:
+- version control
+- functional programming
+- literate programming
+
+https://do4ds.com/
+It's more focused on DevOps (applied to data science) with interesting chapters on:
+- creating virtual environment
+- creating and using APIs
+- interaction with databases
+- Using docker
+- working on the cloud
+
+## Tips and tricks
+Use quarto to have the code together with some description. 
+Use Obsidian for note-taking and documentating the process.
